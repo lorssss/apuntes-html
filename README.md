@@ -27,3 +27,4 @@ HTML, siglas en inglés de HyperText Markup Language (Lenguaje de Marcado de Hip
 </html>
 
 ```
+                             ![imagen de fondo](ordenador.webp)
